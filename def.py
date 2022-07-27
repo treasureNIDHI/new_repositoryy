@@ -1,3 +1,4 @@
+"creating function for some maths problems"
 def sum_(x,y):
     z=x+y
     return z
@@ -16,4 +17,4 @@ elif enter=="diff":
 elif enter=="sum_g":
     print(sum_g(n,m))
 
-    
+  
