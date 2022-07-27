@@ -7,6 +7,8 @@ def diff(x,y):
     return z
 def sum_g(x,y):
     return (x*y)
+def power(x,y):
+    return (x**y)
 enter=input("enter 'sum or diff or sum_g'")
 n=int(input("enter a digit"))
 m=int(input("enter another digit"))
