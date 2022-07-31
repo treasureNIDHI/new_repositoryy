@@ -1,7 +1,7 @@
 "creating function for some maths problems"
 def sum_(x,y):
-    z=x+y
-    return z
+    #z=x+y
+    return (x+y)
 def diff(x,y):
     z=abs(x-y)
     return z
