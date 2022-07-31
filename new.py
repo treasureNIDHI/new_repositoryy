@@ -1,0 +1,8 @@
+print("Kumbhkaruna")
+print("Viraj")
+print("Nidhi")
+print("Tejas")
+print("Chivanch")
+print("Yash")
+print("Pallavi")
+print("Khushi")
